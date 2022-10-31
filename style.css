@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: #E3E7EB;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    
+    border-radius: 7px;
+    background-color: white;
+    height: 650px;
+    width: 1100PX;
+    margin: 50px auto;
+    
+}
+img{
+    float: right;
+    width: 550px;
+    height: 650px;
+    border-radius: 0 7px 7px 0;
+}
+form{
+    
+    width: 400px;
+    height: 500px;
+    padding: 100px 0 0 30PX;
+    margin: 0 0 0 90px;
+    
+}
+.wlc{
+    color: rgb(4, 4, 4);
+    margin-left: 8px;
+}
+.wlcb{
+    color: #9FA1A8;
+    margin-top: -19px;
+    
+}
+label{
+    color: #535761;
+    font-size: 12px;
+    
+}
+.acc{
+    display: inline;
+    color: #9FA1A8;
+    font-size: 12px;
+    margin-left: 45px;
+    margin-top: 60px;
+}
+.email{
+    width: 310PX;
+    height: 27px;
+    border-radius: 7PX;
+    border: 1.8px solid #cfd0d6;
+    margin: 0 0 15px 0;
+    padding: 5px 12px;
+}
+.pass{
+    width: 310PX;
+    height: 27px;
+    border-radius: 7PX;
+    border: 1.8px solid #cfd0d6;
+    margin: 0 0 15px 0;
+    padding: 5px 12px;
+}
+.rmm{
+    font-size: 11px;
+    margin-top: -10px;
+    color: rgb(8, 8, 8);
+}
+.forgot{
+    font-size: 12px;
+    color: rgb(4, 4, 4);
+    text-decoration: none;
+    margin-left: 80px;
+}
+.sign{
+    width: 340PX;
+    height: 35px;
+    color: white;
+    background-color: #101727;
+    border-radius: 7px;
+    border: none;
+    margin-bottom: 10PX;
+    margin-top: 20px;
+}
+.gsign{
+    width: 340PX;
+    height: 35px;
+    border-radius: 7px;
+    border: 1.8px solid #cfd0d6;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.gg{
+    width: 20px;
+    height: 0px;
+}
+.signin{
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(4, 4, 4);
+    
+}
+.transs{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(255, 255,255, 0.3);
+    position: absolute;
+    bottom: 100px;
+    left: 775px;
+    top: 270px;
+    border: 2px solid white;
+    filter: blur(1px); 
+    color: dark;
+}
+    
+
